@@ -19,6 +19,7 @@ YOLOv4目标检测模型，原darknet项目地址：[Yolo-v4 and Yolo-v3/v2 for 
 
 欢迎
 [![](https://img.shields.io/github/stars/yatengLG/YOLOv4-Pytorch.svg)](https://github.com/yatengLG/YOLOv4-Pytorch/stargazers) 
+
 [![](https://img.shields.io/github/forks/yatengLG/YOLOv4-Pytorch.svg)](https://github.com/yatengLG/YOLOv4-Pytorch/network/members)
 
 ## 还未完成
